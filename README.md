@@ -4,7 +4,7 @@
 
 |Title|Concept|Link|Priority|Studied up to:|
 |---|---|---|---|---|
-|Python Essentials for MLOps|MLOps|https://www.coursera.org/learn/python-mlops-duke/home/week/1|high||
+|Python Essentials for MLOps|MLOps|https://www.coursera.org/learn/python-mlops-duke/home/week/1|high|https://www.coursera.org/learn/python-mlops-duke/home/week/2|
 |DevOps, DataOps, MLOps|MLOps|https://www.coursera.org/learn/devops-dataops-mlops-duke?specialization=mlops-machine-learning-duke|high||
 |MLOps Platforms: Amazon SageMaker and Azure ML|MLOps|https://www.coursera.org/learn/mlops-aws-azure-duke?specialization=mlops-machine-learning-duke|high||
 |MLOps Tools: MLflow and Hugging Face|MLOps|https://www.coursera.org/learn/mlops-mlflow-huggingface-duke#modules|high||
